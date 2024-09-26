@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github.com/chandisarandeni/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
 <h1 align="center">Hi 👋, I'm Chandisa Randeni</h1>
 <table align="center" border="none" width="50%">
   <td>
