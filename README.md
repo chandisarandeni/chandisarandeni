@@ -32,6 +32,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandisarandeni&bg_color=0d1117&color=ffffff&line=ffa500&point=00ff00&hide_border=true" alt="Activity Graph">
+</p>
+
+---
+
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
@@ -51,4 +57,9 @@
 </tr>
 </table>
 
----
+
+
+
+
+
+
