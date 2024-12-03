@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandisa Randeni</h1>
 <table align="center" border="none" width="50%">
   <td>
-    <img align="center" alt="Coding" src="https://github.com/user-attachments/assets/f7fcd47c-0e01-44b7-8f72-46d490bc7579" width="875" height="145">
+    <img align="center" alt="Coding" src="https://github.com/user-attachments/assets/f7fcd47c-0e01-44b7-8f72-46d490bc7579" width="800" height="145">
+    <!--width="875" height="145"-->
   </td>
 </table>
 <h3 align="center">Passionate about blending creativity 🎨 with technology 💡 to innovate and solve challenges</h3>
