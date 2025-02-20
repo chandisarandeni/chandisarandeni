@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chandisa Randeni</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Loading...;+Hello+there+👋;+Welcome+to+My+GitHub+Profile+🦑;+I'm+Chandisa+Randeni+🤖;" />
+</h1>
 <table align="center" border="none" width="50%">
   <td>
     <img align="center" alt="Coding" src="https://github.com/user-attachments/assets/f7fcd47c-0e01-44b7-8f72-46d490bc7579" width="800" height="145">
