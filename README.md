@@ -14,15 +14,15 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🌱 I’m currently learning **.Net Framework**
+- 🌱 I’m passionate about **Web Development**
 
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **chandisarandeni@outlook.com**
 
-- ⚡ Fun fact **Call me as Xylon**
+- 🧑‍💻 I’m focused on improving my Problem-Solving Skills
 
 
 
