@@ -49,9 +49,8 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chandisa Randeni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chandisarandeni&theme=dark&hide_border=false" /> 
   <br></br>
   <!--Changed-->
-  <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandisarandeni&theme=dark&show_icons=true&count_private=true" />
-  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandisarandeni&theme=dark&show_icons=true&count_private=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117" />
+
   
 </td>
 <td width="50%" align="center">
