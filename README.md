@@ -8,6 +8,8 @@
   </td>
 </table>
 <h3 align="center">Passionate about blending creativity 🎨 with technology 💡 to innovate and solve challenges</h3>
+<hr>
+<h3 align="center">{ React | Flutter | Express }</h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=chandisarandeni&label=Profile%20views&color=0e75b6&style=flat" alt="chandisarandeni" /></p>
 
 <table align="center">
