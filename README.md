@@ -48,8 +48,9 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chandisa Randeni streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chandisarandeni&theme=dark&hide_border=false" /> 
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=chandisarandeni&theme=dark&hide_border=false" /> 
   <br></br>
+  <!--Chandisa Randeni streak-->
   <!--Changed-->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandisarandeni&theme=dark&show_icons=true&count_private=true&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&bg_color=0d1117" />
 
